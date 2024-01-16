@@ -32,7 +32,6 @@
     .container_third,
     .container_fourth {
         flex-direction: column;
-        margin-left: 70px;
     }
     .little_imgs {
         display: none;
@@ -47,6 +46,7 @@
     }
     .img_container_sec img {
         width: 100%;
+          top: 130px;
     }
     .txt_container_sec {
         width: 100%;
